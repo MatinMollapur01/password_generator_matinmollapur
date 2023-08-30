@@ -16,7 +16,7 @@ This repository contains a simple, yet effective, password generator developed u
 
 # Clone the repository
 
-git clone https://github.com/your_username/password-generator-tkinter.git
+git clone https://github.com/MatinMollapur01/password_generator_matinmollapur.git
 
 # 3. Navigate to the cloned directory:
 
